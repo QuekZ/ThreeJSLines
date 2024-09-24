@@ -8,7 +8,7 @@ All kinds of Stuff made with Three.js Lines. Generative Art, Music Visualizer an
 <b>main2</b>
 ![image](https://github.com/user-attachments/assets/2ed8a764-2ac8-4749-9fe3-20bebd1b231b)
 
-<b>main3</b>
+<h2>main3</h2>
 Music Visualizer. Video here: https://www.youtube.com/watch?v=NrdhCBv05RM
 
 <h2>main5</h2>
