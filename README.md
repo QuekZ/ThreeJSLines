@@ -3,7 +3,8 @@
 All kinds of Stuff made with Three.js Lines. Generative Art, Music Visualizer and Weird Stuff...
 
 <h2>main</h2>
-![image](https://github.com/user-attachments/assets/f2213157-3aa2-41d0-9791-c022e5f83c72)
+![image](https://github.com/user-attachments/assets/332a2a81-5ec9-41f8-974a-a5abfc6268a3)
+
 
 <h2>main2</h2>
 ![image](https://github.com/user-attachments/assets/2ed8a764-2ac8-4749-9fe3-20bebd1b231b)
